@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yamanawad99
-- 👀 I’m interested in machine learning, quantum computers, & cybersecurity
+- 👀 I’m interested in web development, machine learning, quantum computers, & cybersecurity
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on a flutter project
 - 📫 How to reach me : yaman-awad-yolo@hotmail.com
